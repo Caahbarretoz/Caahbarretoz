@@ -16,3 +16,6 @@
   <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=caahbarretoz&theme=apprentice&hide_border=false&border_radius=10&card_width=435px"/>
 </a>
 
+![Snake animation](https://github.com/Caahbarretoz/Caahbarretoz/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Caahbarretoz&repo=Caahbarretoz&theme=react)](https://github.com/Caahbarretoz/Caahbarretoz)

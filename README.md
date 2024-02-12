@@ -1,29 +1,63 @@
-- 👋 Olá, me chamo Camilla.
-- 📚 Atualmente estudo Python, HTML, CSS e Javascript.
-  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=9142EB&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+you!+%E2%9C%A8;I'm+Camilla+Barreto!;" />
+</h1>
 
-<div>
-  <a href="https://github.com/caahbarretoz/github-readme-stats">
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=caahbarretoz&theme=apprentice&show_icons=true&hide_border=true&count_private=true&border_radius=10&card_width=200px&rank_icon=github"/>
+<h3 align="center">A passionate software developer from Brazil</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 
+ 🌱 I’m always learning and developing something new
+
+  📚 Currently, I am studying Analysis and Systems Development at college
+
+  ⚡ At the moment, I am working on personal projects for learning retention and for fun :)
+
+  💻 I also have certificates in System Administration and IT Infrastructure Services, Computer Networking and Technical Support
+
+  ✨ Fun fact: I'm literally addicted to programming. I get sad when I'm not developing anything for a day, for real. (don't ask me bye) 
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:camilla.basantos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/caahbarretoz/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahbarretoz&theme=apprentice&show_icons=true&hide_border=true&layout=compact&border_radius=10" />
+  <a href="https://linkedin.com/in/Camilla-Barreto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
   </a>
 </div>
-<br>
 
-<a href="https://github.com/caahbarretoz/convoychat">
-  <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=caahbarretoz&theme=apprentice&hide_border=true&border_radius=10&card_width=435px"/>
-</a>
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Caahbarretozz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Camilla-Barreto) 
-
-<br>
-
-
+ <hr/>
  
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,stackoverflow,vscode,github,figma,codepen,git,vite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,anaconda,django,flask,firebase,mongodb,cs,php,mysql,powershell,linux" /><br>
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=Caahbarretoz&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=350 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Caahbarretoz&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
+  <img height=200 width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Caahbarretoz&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+<br/>

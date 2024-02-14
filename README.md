@@ -36,8 +36,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,stackoverflow,vscode,github,figma,codepen,git,vite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,anaconda,django,flask,firebase,mongodb,cs,php,mysql,powershell,linux" /><br>
+
+[![languages](https://skillicons.dev/icons?i=react,javascript,html,css,stackoverflow,vscode,github,figma,codepen,git,vite)](https://github.com/Caahbarretoz)
+[![languages](https://skillicons.dev/icons?i=nodejs,python,anaconda,django,flask,firebase,mongodb,cs,php,mysql,powershell,linux)](https://github.com/Caahbarretoz)
+ 
 </div>
 
 <br/>
